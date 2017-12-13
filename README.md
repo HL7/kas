@@ -1,2 +1,0 @@
-# kas
-Knowledge Artifact Specification
